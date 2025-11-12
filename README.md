@@ -81,12 +81,12 @@ realiza las operaciones solicitadas.
 a) \(A + B\)
 
 $$
-A + B = 
+A + B =
 \begin{pmatrix}
 2 + 5 & -1 +2 \\
 3 + (-1) & 4 + 3 \\
 \end{pmatrix}
-=
+
 \begin{pmatrix}
 7 & 1 \\
 2 & 7 \\
