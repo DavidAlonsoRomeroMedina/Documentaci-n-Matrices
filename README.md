@@ -78,7 +78,7 @@ $$
 
 realiza las operaciones solicitadas.
 
-**a)** \(A + B\)
+a) \(A + B\)
 
 $$
 A + B =
@@ -93,7 +93,7 @@ A + B =
 \end{pmatrix}
 $$
 
-**b)** \(2A - B\)
+b) \(2A - B\)
 
 $$
 2A =
@@ -114,7 +114,7 @@ $$
 \end{pmatrix}
 $$
 
-**c)** \(AB\)
+c) \(AB\)
 
 $$
 AB =
@@ -129,7 +129,7 @@ AB =
 \end{pmatrix}
 $$
 
-**d)** \(BA\)
+d) \(BA\)
 
 $$
 BA =
@@ -144,7 +144,7 @@ BA =
 \end{pmatrix}
 $$
 
-**e)** Transpuesta \(A^T\)
+e) Transpuesta \(A^T\)
 
 $$
 A^T =
@@ -158,7 +158,7 @@ $$
 
 ### Ejercicio 3 – Multiplicación en cadena
 
-**Enunciado:**  
+Enunciado:  
 Verifica si la propiedad asociativa se cumple comprobando si \((AB)C = A(BC)\).
 
 $$
@@ -181,9 +181,9 @@ C =
 \end{pmatrix}
 $$
 
-**Cálculos:**
+Cálculos:
 
-**1)** \(AB\)
+1) \(AB\)
 
 $$
 AB =
@@ -198,7 +198,7 @@ AB =
 \end{pmatrix}
 $$
 
-**2)** \((AB)C\)
+2) \((AB)C\)
 
 $$
 (AB)C =
@@ -213,7 +213,7 @@ $$
 \end{pmatrix}
 $$
 
-**3)** \(BC\)
+3) \(BC\)
 
 $$
 BC =
@@ -228,7 +228,7 @@ BC =
 \end{pmatrix}
 $$
 
-**4)** \(A(BC)\)
+4) \(A(BC)\)
 
 $$
 A(BC) =
@@ -243,11 +243,11 @@ A(BC) =
 \end{pmatrix}
 $$
 
-**Conclusión:**  
+Conclusión:  
 \[
 (AB)C = A(BC)
 \]
-Sí son iguales, por lo tanto se cumple la **propiedad asociativa** de la multiplicación de matrices.
+Sí son iguales
 
 
 
