@@ -87,6 +87,7 @@ $$ A + B =
 \end{pmatrix}
 $$
 
+$$
 \begin{pmatrix}
 7 & 1 \\
 2 & 7 \\
@@ -95,14 +96,16 @@ $$
 
 b) \(2A - B\)
 
-$$
-2A =
+
+$$ 2A =
 \begin{pmatrix}
 4 & -2 \\
 6 & 8 \\
 \end{pmatrix}
 \quad
-2A - B =
+$$
+
+$$2A - B =
 \begin{pmatrix}
 4 - 5 & -2 - 2 \\
 6 - (-1) & 8 - 3 \\
