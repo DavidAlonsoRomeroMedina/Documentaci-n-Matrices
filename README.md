@@ -546,7 +546,7 @@ Sin soltar la selección, se arrastró hacia abajo hasta la fila 30.
 
 ## Contacto y Autoría
 
-Este proyecto fue desarrollado como parte de un ejercicio de Álgebra Lineal aplicada a la manipulación de imágenes.
+Este proyecto fue desarrollado como parte de un ejercicio de la asignatura Fundamentos de álgebra.
 
 * **Autor:** David Alonso Romero Medina
 * **GitHub:** DavidAlonsoRomeroMedina(https://github.com/DavidAlonsoRomeroMedina)
